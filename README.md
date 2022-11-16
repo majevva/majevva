@@ -5,6 +5,6 @@
 
 📫 contact: **tomasz@majewski.top**
 anti global-warm support:
-<p><a href="https://www.buymeacoffee.com/majevva"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="110" alt="majevva" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/majevva"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="41" width="174" alt="majevva" /></a></p><br><br>
 
 
